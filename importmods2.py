@@ -1,0 +1,3 @@
+import importMods
+
+importMods.testmod()
